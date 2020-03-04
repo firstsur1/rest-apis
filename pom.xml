@@ -11,7 +11,7 @@
   <url>http://maven.apache.org</url>
 
    <properties>
-        <jackson-databind-version>2.7.0</jackson-databind-version>
+        <jackson-databind-version>2.9.10.3</jackson-databind-version>
         <jaxb-impl-vesrion>2.1</jaxb-impl-vesrion>
     </properties>
 
